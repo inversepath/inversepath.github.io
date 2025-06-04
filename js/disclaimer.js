@@ -18,7 +18,7 @@ showDisclaimer = function() {
       <br/><br/>
       <b>This site is an historical archive of Inverse Path former home.</b>
       <br/><br/>
-      <b>The former Inverse Path team now works at <a href="http://foundry.withsecure.com">WithSecure Foundry</a>.</b>
+      <b>The former Inverse Path team now works at <a href="https://reversec.com">Reversec</a>.</b>
       <br/><br/>
     </div>
   </div>`);
